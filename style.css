@@ -277,7 +277,7 @@ a:hover, a:focus, a.active {
 -------------------------------------------------------------------*/
 .banner-sec {
   overflow: hidden;
-  padding: 224px 0 0;
+  padding: 100px 0 0;
   background: #131313;
 }
 
@@ -318,7 +318,6 @@ a:hover, a:focus, a.active {
   position: relative;
   width: 807px;
   z-index: 1;
-  margin-top: 80px;
 }
 
 /*------------------------------------------------------------------
@@ -861,7 +860,7 @@ a:hover, a:focus, a.active {
 
 .contact-sec .contact-list li {
   float: left;
-  margin: 0 22px 0 0;
+  margin: 0 22px 0 80px;
 }
 
 .contact-sec .contact-list li:nth-child(2) .wrap {
