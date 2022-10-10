@@ -1072,3 +1072,33 @@ a:hover, a:focus, a.active {
 #footer .social-icons a {
   color: #fff;
 }
+
+.abt-img {
+  height: 650px; 
+  /*min-width: 650px;  */
+  margin-top: -10vw;
+  margin-left: -07vw;
+}
+
+.knw-img {
+  height: 649px; 
+  margin-left: 10vw;
+}
+
+
+@media (max-width: 768px) {
+  .abt-img {
+     margin-left: 28vw;
+  }
+}
+
+  @media (max-width: 425px) {
+    .abt-img {
+       margin-left: 22vw;
+    }
+  
+  .knw-img {
+    margin-left: 10vw;
+  }
+}
+
